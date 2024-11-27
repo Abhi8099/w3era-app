@@ -3,9 +3,20 @@
 @tailwind utilities;
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+
+  --pink: #EF1649;
+  --purple: #151337;
+  --grey:#F5F5F5;
+  --textGrey:#7E8287;
+  --blue:#1090d0
+  ;
+--textPurple: #292751;
+--lightblue: #F1F8FC;
+--lightpink: '#FEF1F4';
+--homegrey:'#535353';
+--homeblack: '#333333';
 }
+
 
 @media (prefers-color-scheme: dark) {
   :root {
